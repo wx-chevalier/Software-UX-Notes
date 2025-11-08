@@ -1,6 +1,6 @@
 # 颜色搭配
 
-![颜色速查表](https://assets.ng-tech.icu/item/20230430221506.png)
+![颜色速查表](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20230430221506.png)
 
 # Links
 
